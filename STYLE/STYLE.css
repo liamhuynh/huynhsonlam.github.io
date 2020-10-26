@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: sans-serif;}
+#tieude{
+	width: 95%;
+	margin: 0 auto;
+	
+}
+#tieude h1{
+	color: red; text-align: center;
+}
+#tieude h2 span{
+	color:#0F1E8E; 
+}
+#tieude h2{
+	color: #8E1A94;
+	text-align: center
+}
+
